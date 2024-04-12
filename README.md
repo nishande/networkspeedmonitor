@@ -1,4 +1,4 @@
-# Network Speed Monitor 📊
+# Network Speed Monitor 📊 For Windows/MACOS/Linux
 
 A simple Python script that displays real-time network speed and data usage statistics in the terminal. It shows the current download and upload speeds, as well as the total data downloaded and uploaded. The script uses the `psutil` library to retrieve network information and the `curses` library for terminal-based UI rendering.
 
